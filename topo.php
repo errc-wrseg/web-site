@@ -83,6 +83,7 @@
               <a href="local.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Local</b><span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="local.php?#edicao2019">Edição 2019</a></li>
+                <li><a href="local.php?#hoteis">Hotéis</a></li>
                 <li><a href="local.php?#caravanas">Caravanas</a></li>
                 <li><a href="local.php?#edicoesAnteriores">Edições anteriores</a></li>
               </ul>
