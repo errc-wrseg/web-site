@@ -10,12 +10,12 @@
         <h4>Quais são os benefícios do Programa de Caravanas?</h4>
         <ul>
         <li>A cada 8 integrantes: 01 ingresso</li>
-        <li>A cada 16 integrantes:01 camiseta personalizada</li>
+        <li>A cada 16 integrantes: 01 camiseta personalizada</li>
         </ul>
         
         <h4>Cronograma</h4>
         <ul>
-        <li>Envio da relação dos integrantes e agendamento de horários de chegada e partida dos grupos: 29/08/2019</li>
+        <li>Envio da relação dos integrantes e agendamento de horários de chegada e partida dos grupos: 03/09/2019</li>
         <li>Recepção das caravanas: 16/09/2019</li>
         </ul>
         
