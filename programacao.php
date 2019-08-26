@@ -42,7 +42,7 @@
         <b>Minibio:</b> Consultor técnico de ISPs. Empreendedor. CEO da Raptor Engenharia e Inovação Tecnológica.
         </p>
 
-        <br>
+       <!-- <br>
         <a class="anchor" id="palestras_william"></a>
         <h3> Como funciona a internet que eu uso? (por William Magerl)</h3>
         <p><b>Data:</b> a ser definida</p>
@@ -51,6 +51,19 @@
         </p>
         <p>
         <b>Minibio:</b> Analista de redes de computadores no Ponto de Presença da RNP no Rio Grande de Sul (PoP-RS/RNP), responsável pela rede MetroPOA. Graduado em redes de computadores pela Univates. Certificação CCNA e JNCIA.
+        </p>
+        --> 
+        
+        <br>
+        <a class="anchor" id="palestras_conterato"></a>
+        <h3> A Importância das Certificações para os Profissionais de TIC (por Marcelo Conterato)</h3>
+        <p><b>Data:</b> 18/09/2019</p>
+        <p>
+        <b>Descrição:</b> O diploma de um curso superior nem sempre é o bastante em um mercado de trabalho cada vez mais competitivo. Para conquistar maior destaque e oportunidades na carreira, é importante investir em certificações para maior qualificação profissional, se aperfeiçoar e expandir seus conhecimentos. As certificações são a garantia de que a pessoa possui um conhecimento aprofundado sobre determinada tecnologia. Mais do que isso, também demonstram que o profissional busca atualizar-se e aprimorar-se, ou seja, são um sinal de dedicação, interesse e esforço.
+        </p>
+        
+        <p>
+        <b>Minibio:</b> Engenheiro de Redes Senior na Divisão de Gerência de Redes da Brigada Militar, Doutorando no PPGCC/PUCRS, Cisco Instructor Training e AWS Academy Instructor. Possui as certificações CCENT, CCNA R&S, CCNP R&S, CCNA CyberOps , CCNA Security, CCAI, Cisco ITQ, ISO/IEC 27001, ITIL, MCSA,  AWS Certified Cloud Practitioner.
         </p>
 
         <br>

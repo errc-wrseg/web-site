@@ -2,9 +2,9 @@
     require_once('topo.php');
 ?>
 
-<!--         INICIO CONTEUDO LOCAL      -->
+<!--  INICIO CONTEUDO LOCAL      -->
 <a class="anchor" id="edicao2019"></a>
-<div class="container-fluid">
+<div class="container-fluid ">
   <div class="container">
     <?php include 'local_edicao_atual.php';?>
   </div> <!--FIM-CONTAINER -->
@@ -26,9 +26,26 @@
     <div class="container">
         <?php include 'local_caravanas.php';?>
     </div>
-</div><!-- FIM CONTEUDO CARAVANAS      -->
+</div><!-- FIM CONTEUDO CARAVANAS -->
 
+<!-- INICIO CONTEUDO RESTAURANTES -->
+<a class="anchor" id="restaurantes"></a>
+<div class="container-fluid bg-success">
+    <div class="container">
+        <?php include 'local_restaurantes.php';?>
+    </div>
+</div><!-- FIM CONTEUDO RESTAURANTES -->
 
+<!-- INICIO CONTEUDO JANTAR FARROUPILHA -->
+<a class="anchor" id="jantar_farroupilha"></a>
+<div class="container-fluid ">
+    <div class="container">
+      <h3>Jantar no CTG Farroupilha - <font color="red">Quarta-Feira, 18/09/2019</font></h3>
+      <h4>Confira programação da semana completa do CTG para a Semana Farroupilha</h4>
+      <img src="img/jantar_farroupilha.jpeg">   
+        <br><br>
+    </div>
+</div><!-- FIM CONTEUDO JANTAR FARROUPILHA -->
 
 <a class="anchor" id="edicoesAnteriores"></a>
 <div class="container-fluid bg-success">

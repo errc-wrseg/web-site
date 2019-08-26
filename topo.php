@@ -85,7 +85,9 @@
                 <li><a href="local.php?#edicao2019">Edição 2019</a></li>
                 <li><a href="local.php?#hoteis">Hotéis</a></li>
                 <li><a href="local.php?#caravanas">Caravanas</a></li>
-                <li><a href="local.php?#edicoesAnteriores">Edições anteriores</a></li>
+                <li><a href="local.php?#restaurantes">Restaurantes</a></li>
+                <li><a href="local.php?#jantar_farroupilha">Jantar CTG Farroupilha</a></li>
+                <li><a href="local.php?#edicoesAnteriores">Edições anteriores</a></li>   
               </ul>
             </li>
 
