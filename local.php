@@ -41,9 +41,10 @@
 <div class="container-fluid ">
     <div class="container">
       <h3>Jantar no CTG Farroupilha - <font color="red">Quarta-Feira, 18/09/2019</font></h3>
+      <p>O evento social será um jantar no CTG Farroupilha!</p>    
       <h4>Confira programação da semana completa do CTG para a Semana Farroupilha</h4>
-      <img src="img/jantar_farroupilha.jpeg">   
-        <br><br>
+      <img class="img-fluid" src="img/jantar_farroupilha.jpeg">   
+       <br><br>
     </div>
 </div><!-- FIM CONTEUDO JANTAR FARROUPILHA -->
 
