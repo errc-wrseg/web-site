@@ -41,7 +41,20 @@
         <p>
         <b>Minibio:</b> Consultor técnico de ISPs. Empreendedor. CEO da Raptor Engenharia e Inovação Tecnológica.
         </p>
-
+        
+        
+        <br>
+        <a class="anchor" id="palestras_roben"></a>
+        <h3>Blockchain em IoT: tendências e riscos (por Roben Lunardi)</h3>
+        <p><b>Data:</b> 17/09/2019</p>
+        <p>
+        <b>Descrição:</b> Blockchain é um conceito que surgiu e se popularizou com a criptomoeda Bitcoin, porém ganhou novas proporções. Atualmente, diferentes blockchains foram propostas, com os mais diferentes usos. Em específico no contexto de Internet das Coisas (IoT), blockchain pode trazer muitos benefícios no que se refere à integridade e não repúdio das informações produzidas por diferentes dispositivos. Para isso, a palestra apresentará os principais avanços para a adoção de blockchains em IoT, as principais abordagens propostas pela academia, e as tendências de mercado. Ainda serão discutidos problemas, benefícios, e áreas onde Blockchain em IoT possui potencial para expansão. Adicionalmente, serão discutidos novos conceitos trazidos pelas blockchains como o uso de Smart Contracts e Tokens no contexto de IoT. 
+        </p>
+        <p>
+        <b>Minibio:</b> Possui bacharelado em Ciência da Computação pela Universidade Federal de Santa Maria (UFSM) e mestrado em Computação pela Universidade Federal do Rio Grande do Sul (UFRGS). Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Restinga (IFRS - Campus Restinga) e doutorando em Ciência da Comptação pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). Tem experiência na área de Ciência da Computação, com ênfase em Redes de Computadores, Segurança de Sistemas e Internet das Coisas (IoT), atuando principalmente nos seguintes temas: Blockchain, Segurança de Redes de Computadores, Gerência de Redes de Computadores, e Robótica Educacional. Participou de diferentes projetos com Blockchain, sendo um dos autores da SpeedyChain (registrada no INPI). Ainda, realizou intercâmbio - financiado pela Australian Academy of Science - na University of New South Wales (UNSW) para pesquisar blockchains em IoT.
+        </p>
+        
+        
        <!-- <br>
         <a class="anchor" id="palestras_william"></a>
         <h3> Como funciona a internet que eu uso? (por William Magerl)</h3>
