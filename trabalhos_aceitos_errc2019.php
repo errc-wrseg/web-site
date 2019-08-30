@@ -36,7 +36,7 @@
 <i>Leonardo Foletto, Ivania Fischer, Roseclea Medina, Eder Pereira (Universidade Federal de Santa Maria)</i>
 <br>
 <br>
-<b>Gestão de Privacidade de Dados do Paciente em Registros Médico-Hospitalares Eletrônicos</b>
+<b>Gestão de Privacidade no Armazenamento de Dados do Paciente em Registros Médico-Hospitalares Eletrônicos</b>
 <br>
 <i>Fabio Demo, Walter Priesnitz Filho (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
