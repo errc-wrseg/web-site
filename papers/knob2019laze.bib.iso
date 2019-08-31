@@ -7,4 +7,8 @@
     month = {sep},
     year = {2019},
     abstract = {Este artigo descreve o desenvolvimento de uma ferramenta de análise de logs gerados através do software Squid, chamada LAZE, que busca apresentar informações úteis, a partir de relatórios e gráficos, aos gestores de redes em ambiente empresarial ou organizacional. Ainda, procurou-se identificar limitações e ausência de recursos em ferramentas similares, procurando-se suprir limitações advindas da necessidade de controle de requisições web realizadas pelos usuários. Este artigo também busca descrever os problemas encontrados para a obtenção e gerência de uma grande quantidade de logs e seu tratamento em um banco de dados relacional.},
-    keywords = {Medic
+    keywords = {Medicao e monitoracao de redes; Seguranca em redes; Servicos Web},
+    url = {http://errc.sbc.org.br/2019/papers/knob2019laze.pdf},
+} 
+
+

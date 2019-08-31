@@ -7,4 +7,7 @@
     month = {sep},
     year = {2019},
     abstract = {The interconnection of remote places is vital to the operation of some enterprise, therefore the use of VPN technologies is essential to the application of the enterprise strategies. To the enterprises utilize resources and personal on the implementation of these services is not always it's a viable solution, so \textit{Internet} providers are hire to realize the interconnection e implementation of the VPNs. A very important factor associate with all TI service is in the delivery of performance, delivery a correspondent throughput to the clients is necessary to avoid financial loss to the TI operator. With a large possibilities of choices in the implementation of VPN services, the factor of performance can be the key on this matter. Therefore in this paper will be present the analyze of performance of three types of technologies that support the VPN functionality on a level of data link and network layers, MPLS, Frame Relay, and IPSec.},
-    keywords = {Desempenho, escalabilidade e confiabilidade; Medic
+    keywords = {Desempenho, escalabilidade e confiabilidade; Medicao e monitoracao de redes; Roteamento, comutacao e enderecamento},
+    url = {http://errc.sbc.org.br/2019/papers/stasiak2019anlise.pdf},
+} 
+

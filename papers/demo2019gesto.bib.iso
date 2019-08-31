@@ -7,4 +7,7 @@
     month = {sep},
     year = {2019},
     abstract = {O aumento constante do uso de registros eletrônicos para controle de usuários, possibilita observar que quaisquer dados, sejam gerais ou pessoais, interessam a alguém (incluindo adversários ou indivíduos mal-intencionados). É fundamental garantir a segurança e a privacidade de tais dados, desse modo os proprietários destas informações não serão prejudicados caso terceiros obtenham acesso aos seus dados pessoais. Para garantir isto, busca-se implementar um serviço de gerenciamento, através de métodos criptográficos, que cifram informações sensíveis e as tornem legíveis somente a quem tiver permissão para acessá-las. Assim, minimizando os riscos de uma possível obtenção por meio de ataques e/ou uso não autorizado destas informações por adversários.},
-    keywords = {Seguranc
+    keywords = {Seguranca em redes},
+    url = {http://errc.sbc.org.br/2019/papers/demo2019gesto.pdf},
+} 
+

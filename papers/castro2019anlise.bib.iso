@@ -7,4 +7,6 @@
     month = {sep},
     year = {2019},
     abstract = {A telemetria in-band surgiu recentemente como uma alternativa ao monitoramento tradicional e permite encapsular informações de monitoramento com uma granularidade mais fina a partir do plano de dados permitindo aumentar o nível de visibilidade fornecido ao operador. Nesse sentido, pouco ainda foi feito para orquestrar a coleta de dados relacionados a telemetria in-band. Neste artigo, propõe-se duas heurísticas online para coletar informações de telemetria baseadas nas estratégias round-robin e least recently collected. Resultados mostram que as heurísticas projetadas conseguem coletar os dados de telemetria com 30\% a mais de frequência e com maior uniformidade ao longo do tempo que as abordagens existentes.},
-    keywords = {Gerenciamento e operac
+    keywords = {Gerenciamento e operacao de redes; Medicao e monitoracao de redes},
+    url = {http://errc.sbc.org.br/2019/papers/castro2019anlise.pdf},
+} 

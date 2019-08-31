@@ -7,4 +7,6 @@
     month = {sep},
     year = {2019},
     abstract = {Por conta de seus atributos de economia de energia, o Bluetooth Low Energy (BLE) vem sendo um forte candidato à conectar diferentes tipos de sensores e atuadores para que se comuniquem no âmbito de Internet das Coisas. Quando comparado com outras tecnologias de comunicação de dados, o BLE oferece uma arquitetura simples e barata, com tamanho reduzido e alcance similar às demais tecnologias. A fim de explorar essa tecnologia de melhor maneira, este trabalho propõe um protocolo de autenticação na camada de aplicação, garantindo a autenticidade e uma melhor eficiência energética dos equipamentos envolvidos na comunicação, pois este é o diferencial dessa tecnologia.},
-    keywords = {Protocolos de redes; Seguranc
+    keywords = {Protocolos de redes; Seguranca em redes},
+    url = {http://errc.sbc.org.br/2019/papers/eichner2019definindo.pdf},
+} 
