@@ -29,7 +29,7 @@
 <a href="https://errc.sbc.org.br/2019/papers/branco2019avaliao.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/papers/branco2019avaliao_slides.pdf">[Slides]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/papers/branco2019avaliao.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/papers/branco2019avaliao.bib.txt">[BibTeX ISO-8859-1]</a>
 <br>
 <br>
-<b>Definindo um Protocolo de Autenticação Utilizando Bluetooth Low Energy para Dispositivos no Conceito de IoT</b>
+<b>Definindo um Protocolo de Autenticação Utilizando Bluetooth Low Energy para Dispositivos no Conceito de IoT</b>
 <br>
 <i>Andre Eichner, Nathan da Silva, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
 <br>
