@@ -1,0 +1,10 @@
+@inproceedings{oliveira2019anlise,
+    author = {Kerolayne Oliveira and Charles Miers},
+    title = {{Análise de segurança no uso de contêineres Docker em máquinas virtuais}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A procura por novas formas de economizar com data centers proporcionou a entrada de novas tecnologias no mercado e entre estas estão os contêineres. Porém, vulnerabilidades nos mecanismos do núcleo são um risco para os dados e o funcionamento do serviço de todas as entidades que compartilham o mesmo hardware. Portanto, torna-se relevante identificar e classificar ameaças, riscos e possíveis vulnerabilidades para a segurança do ambiente baseado em contêineres. O objetico deste artigo é identificar e definir os problemas de segurança em contêineres Docker Community 18.09.6, indicando meios de mitigação.},
+    keywords = {Computac

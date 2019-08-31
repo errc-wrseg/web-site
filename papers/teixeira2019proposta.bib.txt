@@ -1,0 +1,10 @@
+@inproceedings{teixeira2019proposta,
+    author = {Djalma Teixeira and Adriano Vogel and Dalvan Griebler},
+    title = {{Proposta de Monitoramento e Gerenciamento Inteligente de Temperatura em Datacenters}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {O constante crescimento e desenvolvimentos das infraestruturas computacionais, vem impulsionando uma demanda cada vez maior por monitoramento e gerenciamento inteligente. Em smart datacenters os equipamentos são controlados por meio de ações autonômicas que são executadas sob determinadas condições, sem a necessidade de intervenção humana. O objetivo deste trabalho é propor um modelo conceitual de monitoramento e gerenciamento inteligente para temperatura em smart datacenters, que pode ser aplicado tanto em estruturas básicas quanto complexas, uma vez que o mesmo pode ser adaptado a heterogeneidade dos equipamentos utilizados para climatização.},
+    keywords = {Computac

@@ -1,0 +1,10 @@
+@inproceedings{machado2019avaliao,
+    author = {Douglas Machado and Ariel Góes de Castro and Francisco Vogt and Marcelo Caggiani Luizelli},
+    title = {{Avaliação de Desempenho de Heavy Hitters utilizando P4 e XDP}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A ser definido. A ser definido. A ser definido. A ser definido. A ser definido.},
+    keywords = {Caracterizac

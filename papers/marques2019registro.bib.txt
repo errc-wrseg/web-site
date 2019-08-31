@@ -1,0 +1,10 @@
+@inproceedings{marques2019registro,
+    author = {Marco Marques and Charles Miers},
+    title = {{Registro de eventos de alocação de contêineres em Blockchain}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A tecnologia de virtualização baseada em contêineres possibilita sua alocação dinâmica, atendendo a necessidades de escalonamento e tolerância a falhas. Esta característica proporciona maior flexibilidade no uso dos recursos computacionais, mas torna o monitoramento destes um desafio, devido ao grande fluxo de chamadas e alocações. Este artigo propõe uma solução para registro de alocação / desalocação de contêineres baseada em Blockchain. O registro destas operações nos contêineres permite tanto a auditoria dos recursos empregados como a verificação da cronologia das operações realizadas.},
+    keywords = {Computac

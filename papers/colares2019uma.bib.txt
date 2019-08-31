@@ -1,0 +1,10 @@
+@inproceedings{colares2019uma,
+    author = {Liliana Colares and Matheus Braga and Victor Martins de Sousa and Diuliana da Rosa},
+    title = {{Uma Comparação dos Dados da Ferramenta Zabbix com a Percepção dos Usuários da Rede no Instituto Federal Catarinense ? Campus Avançado Sombrio}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Este trabalho apresenta uma análise da percepção dos usuários em relação à rede de computadores do Instituto Federal Catarinense ? Campus Avançado Sombrio. As principais questões abordadas foram com o intuito de levantar o período do dia com maior fluxo de dados, verificar se existe lentidão no uso da rede e em quais horários os usuários percebem este problema. A pesquisa se deu com base em um questionário aplicado aos usuários, realizando uma comparação entre as respostas e os gráficos da ferramenta de monitoramento Zabbix. Os usuários analisados estudam no turno da noite e através do comparativo foi possível perceber que existe um alto índice de acesso à Internet no período noturno.},
+    keywords = {Especificac
