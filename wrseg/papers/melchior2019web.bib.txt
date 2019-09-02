@@ -1,0 +1,12 @@
+@inproceedings{melchior2019web,
+    author = {Felipe Melchior and Diego Kreutz and Maurício Fiorenza},
+    title = {{Web Application Firewalls (WAFs): o impacto do número de regras na latência das requisições Web}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Relatórios especializados indicam que aproximadamente 90% das aplicações disponibilizadas na Internet apresenta algum tipo de vulnerabilidade. Estudos recentes demonstram que frameworks de desenvolvimento de software e WAFs (Web Application Firewalls) podem ajudar a detectar e impedir a exploração de mais de 70% das vulnerabilidades mais recorrentes em aplicações Web. Este trabalho tem como objetivo principal realizar uma avaliação empírica de WAFs, incluindo a análise do impacto da quantidade de regras ativas na latência das requisições do cliente à aplicação Web. Os resultados experimentais demonstram que o número de regras de um WAF tem um impacto significativo na latência das requisições Web, podendo ultrapassar um aumento de 2000% para 100k regras.},
+    keywords = {Segurança em redes; Segurança situacional},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/melchior2019web.pdf},
+} 

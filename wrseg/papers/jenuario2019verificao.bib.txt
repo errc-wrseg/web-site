@@ -1,0 +1,12 @@
+@inproceedings{jenuario2019verificao,
+    author = {Tadeu Jenuario and João Otávio Chervinski and Giulliano Paz and Diego Kreutz},
+    title = {{Verificação Automática de Protocolos de Segurança com a ferramenta Scyther}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Protocolos de segurança (e.g. Needham-Schroeder, IKE, IPSec, SSH, Kerberos, TLS) representam o alicerce das comunicações do mundo atual. Protocolos como o IKE e o TLS permitem a troca de chaves na internet e propriedades de segurança essenciais para as comunicações (e.g. confidencialidade, integridade e autenticidade). Um dos grandes desafios no projeto desses protocolos é garantir a sua própria segurança, ou seja, garantir que o protocolo seja livre de vulnerabilidades. Atualmente, existem algumas ferramentas desenvolvidas especificamente para a verificação formal automática de protocolos de comunicação e segurança, como a Scyther, CrytoVerif, Tamarin Prover e AVISPA. Entretanto, essas são ainda pouco conhecidas e utilizadas na prática por projetistas de protocolos. Este trabalho tem por objetivo contribuir no fechamento desta lacuna através da introdução e demonstração prática de utilização da ferramenta Scyther, projetada para auxiliar na verificação automática de protocolos de segurança.},
+    keywords = {Análise de protocolos de segurança; Criptografia e criptoanálise: algoritmos, protocolos, técnicas e aplicações Gestão de Identidades},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/jenuario2019verificao.pdf},
+} 

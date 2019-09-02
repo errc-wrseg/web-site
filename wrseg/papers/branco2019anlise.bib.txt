@@ -1,0 +1,12 @@
+@inproceedings{branco2019anlise,
+    author = {Ricardo Branco and Tiago Antônio Rizzetti and Lucas Dias},
+    title = {{Análise Comparativa entre Protocolos para troca de certificados digitais }},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {De maneira gera, quando necessitamos compartilhar um certificado digital de forma segura, encontramos o problema do compartilhamento seguro deste, que muitas vezes é deixado de lado na literatura. Atualmente diversos protocolos e modelos de troca destes certificados são acessíveis na literatura. O presente trabalho tem como objetivo comparar o protocolo para troca de chaves IKE (Internet Key Exchange) com um novo protocolo proposto pelos autores, o qual tem como premissa garantir a integridade da mensagem, utilizando-se de assinaturas digitais, confidencialidade dos dados, a partir de um acordo Diffie Hellman, e outros aspectos essenciais a serem discutidos no decorrer do artigo.},
+    keywords = {Análise de protocolos de segurança; Autenticação e gestão de identidades; Segurança em redes},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/branco2019anlise.pdf},
+} 

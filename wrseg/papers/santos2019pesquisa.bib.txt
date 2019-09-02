@@ -1,0 +1,12 @@
+@inproceedings{santos2019pesquisa,
+    author = {Mateus Santos and Daniel Marcon},
+    title = {{Pesquisa experimental sobre Ataques Cibernéticos em serviços de infraestruturas de nuvens públicas baseadas em soluções Microsoft Azure}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Para manter a perpetuidade de seus negócios, as corporações estão transformando-os para o modelo digital. Como consequência dessas mudanças, a infraestrutura de tecnologia da informação (TI) precisa mudar os paradigmas obsoletos e adotar soluções que assegurem elasticidade para crescimento, alta disponibilidade e segurança para suportar os novos modelos de negócios. Dentro desse contexto, a infraestrutura em nuvem se tornou um modelo primordial para atender às necessidades do negócio e também da TI. Assim como outras tecnologias disruptivas, a infraestrutura em nuvem também possui considerações importantes referente à segurança da informação. Neste cenário, o presente artigo realiza uma pesquisa experimental das soluções de segurança disponíveis no ambiente de infraestrutura pública da Microsoft Azure e apresenta uma avaliação da eficiência e da efetividade dos controles disponíveis através de simulações de ataques cibernéticos. Os resultados obtidos apresentam a baixa efetividade dos mecanismos de segurança oferecidos pela Microsoft Azure e demonstram os acréscimos relacionados ao desempenho da solução.},
+    keywords = {Segurança em redes; Segurança em sistemas operacionais},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/santos2019pesquisa.pdf},
+} 

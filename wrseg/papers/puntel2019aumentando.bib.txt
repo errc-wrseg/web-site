@@ -1,0 +1,12 @@
+@inproceedings{puntel2019aumentando,
+    author = {Marcelo Puntel and José Luiz and Felipe Becker Nunes},
+    title = {{Aumentando a produtividade e a segurança da sua empresa com o Sophos XG}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A internet não pode ser considerada lugar 100% seguro, com o avanço tecnológico e cada vez mais usuários nesse universo, os riscos de navegar sem segurança é algo primordial a se considerar nos dias atuais, tanto para o meio pessoal como profissional. Partindo disso, o artigo tem como objetivo mostrar como o tempo ocioso dos colaboradores utilizando a internet na empresa é alto e alertar sobre os perigos das redes e demonstrar porque é tão importante para uma empresa ou para si, a segurança da informação utilizando como ferramenta o Sophos XG. Com isso, a pesquisa foi realizada utilizando cases de empresas que utilizam a ferramenta e, após isso, gerando os resultados necessários através de monitoramentos que resultaram em gráficos que podem ser analisados para atingir o objetivo. Os resultados obtidos demonstram o poder computacional da ferramenta para facilitar o gerenciamento da segurança pelos gestores},
+    keywords = {Gestão de segurança da informação; Segurança em aplicações (redes sociais, IoT, ...); Segurança em sistemas operacionais},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/puntel2019aumentando.pdf},
+} 

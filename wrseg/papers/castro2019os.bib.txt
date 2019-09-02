@@ -1,0 +1,13 @@
+@inproceedings{castro2019os,
+    author = {Ariel Góes de Castro and Felipe Quirino and Francisco Vogt and Diego Kreutz and João Otávio Chervinski},
+    title = {{Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A maioria dos serviços online armazena informações sensíveis dos usuários, como credenciais de acesso (login e senha), dados de cartões de crédito e outras informações pessoais. Devido a isto, estes serviços tornaram-se alvos de cibercriminosos. O resultado é um número e volume crescentes de incidentes de segurança resultando em vazamentos de dados sensíveis. Para verificar se seus dados foram vazados na Internet, usuários podem recorrer a serviços online especializados, como o Avast Hack Check e o Have I Been Pwned, que coletam dados de vazamentos ocorridos. O objetivo deste trabalho é analisar os dados destes dois serviços e verificar a consistência e o nível de confiabilidade das informações apresentadas aos usuários. Os resultados indicam que aproximadamente 50\% das credencias vazadas estão corretas de acordo com os respectivos usuários.},
+    keywords = {Autenticação e gestão de identidades; Segurança em aplicações (redes sociais, IoT, ...)},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/castro2019os.pdf},
+}
+

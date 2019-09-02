@@ -1,0 +1,12 @@
+@inproceedings{neu2019extrao,
+    author = {Charles Neu and Evandro Trebien and Daniel Bertoglio and Roben Lunardi and Avelino Zorzo},
+    title = {{Extração e gerenciamento de incidentes em SIEM}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Atualmente, o número e a diversidade de dispositivos conectados à internet continua aumentando. Consequentemente, o gerenciamento de segurança se tornou um grande desafio. Desta forma, o Gerenciamento de Eventos e Segurança da Informação (SIEM) pode ajudar a coletar e analisar eventos gerados por diferentes ferramentas de gerenciamento. No entanto, muitas vezes, estas ferramentas, dependem de uma força-tarefa humana especializada para analisar cada evento e fornecer uma decisão de acordo com o incidente. Além disso, o gerenciamento de alertas gerado geralmente não é eficiente nas soluções atuais. A fim de ajudar a lidar com essas questões, este artigo apresenta uma abordagem para gerenciar incidentes através de tickets relacionados a eventos crítico de segurança, seguindo o processo de Gerenciamento de Incidentes da Information Technology Infrastructure Library (ITIL).},
+    keywords = {Incidentes de segurança: prevenção, detecção e resposta; Segurança em redes},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/neu2019extrao.pdf},
+} 
