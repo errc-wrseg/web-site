@@ -33,6 +33,7 @@
 <div class="container-fluid bg-success">
     <div class="container">
         <?php include 'local_restaurantes.php';?>
+        <?php include 'local_noturno.php';?>
     </div>
 </div><!-- FIM CONTEUDO RESTAURANTES -->
 
