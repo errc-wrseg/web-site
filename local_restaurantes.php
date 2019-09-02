@@ -11,5 +11,3 @@
         <li>Capri (Centro, costuma ter fila) </li>
         </ul>
 
-    <br><br>
-         
