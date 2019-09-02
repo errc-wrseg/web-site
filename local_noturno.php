@@ -1,4 +1,4 @@
-<h3>Opções noturnas:</h3>
+<h3>Algumas opções noturnas:</h3>
 <ul>
 <li><a href="https://duckduckgo.com/?q=restaurantes+alegrete-rs&t=ffab&atb=v130-1&ia=places">Bistrô Alegrete</a></li>
 <li><a href="https://www.foodyas.com/BR/Alegrete/1490873194490153/Casar%C3%A3o-Pizzaria">Casarão Pizzaria</a></li>
