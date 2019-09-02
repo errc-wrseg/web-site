@@ -1,6 +1,6 @@
 <h3>Algumas opções noturnas:</h3>
 <ul>
-<li><a href="http://www.findglocal.com/BR/Alegrete/544032472382832/23-Pub-Bar---um-bar-com-alma">23 PUB BAR</a>&nbsp;<a href="https://www.guiamais.com.br/alegrete-rs/bares-e-pubs/bares/2065515338-4220049/23-pub-bar">[local]</a></li>
+<li><a href="http://www.findglocal.com/BR/Alegrete/544032472382832/23-Pub-Bar---um-bar-com-alma">23 PUB BAR</a>&nbsp;<a href="https://www.guiamais.com.br/alegrete-rs/bares-e-pubs/bares/2065515338-4220049/23-pub-bar">[mapa]</a></li>
 <li><a href="https://duckduckgo.com/?q=restaurantes+alegrete-rs&t=ffab&atb=v130-1&ia=places">Bistrô Alegrete</a></li>
 <li><a href="https://www.foodyas.com/BR/Alegrete/1490873194490153/Casar%C3%A3o-Pizzaria">Casarão Pizzaria</a></li>
 <li><a href="https://www.foodyas.com/BR/Alegrete/396570317437472/Doce-Vida-Steakhouse">Doce Vida Steakhouse</a></li>
