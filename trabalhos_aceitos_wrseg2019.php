@@ -1,6 +1,6 @@
 <br>
 <br>
-<h4>LISTA PROVISÓRIA DOS PAPERS ACEITOS</h4>
+<h4>LISTA DOS PAPERS ACEITOS</h4>
 <p>
 <br>
 <b>Análise Comparativa entre Protocolos para troca de certificados digitais</b>
@@ -88,7 +88,7 @@
 <br>
 <br>
 </p>
-<h4>LISTA PROVISÓRIA DOS RESUMOS ESTENDIDOS ACEITOS</h4>
+<h4>LISTA DOS RESUMOS ESTENDIDOS ACEITOS</h4>
 <p>
 <br>
 <b>Análise do Impacto de Funções Criptográficas no Desempenho do Google BigQuery</b>
