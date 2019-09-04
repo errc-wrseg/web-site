@@ -2,9 +2,11 @@
     require_once('topo.php');
 ?>
 
-<div class="container-fluid bg-success">
+<!--         INICIO CONTEUDO WRSEG      -->
+<a class="anchor" id="visaogeral"></a>
+<div class="container-fluid">
     <div class="container">
-        <!--         INICIO CONTEUDO WRSEG      -->
+        
         <br><br><br>
         <h3>
             <center>
@@ -27,19 +29,56 @@
         profissionais interessados no desenvolvimento da &aacute;rea,
         fomentando o debate e a troca de experi&ecirc;ncias.
         </p>
+        <h3>Visão geral</h3>
+        <p>
+          <img class="img-responsive" src="img/cronograma.png">   
+        </p>
     </div>
 </div>
 
+ 
+
+<a class="anchor" id="melhorestrabalhos"></a>
+<div class="container-fluid ">
+    <div class="container">
+        <br><br><br><br>
+        <h2>Melhores Trabalhos da WRSeg 2019</h2>
+        <p>
+            <?php include 'programacao_melhores_wrseg.php';?>
+        </p>
+        <br><br>
+    </div>
+</div>
+
+<a class="anchor" id="sessoesTecnicas"></a>
+<div class="container-fluid bg-success">
+    <div class="container">
+        <br><br><br><br>
+        <h2>Sessões Técnicas da WRSeg 2019</h2>
+        <p>
+            <?php include 'programacao_sessoes_wrseg.php';?>
+        </p>
+        <br><br>
+    </div>
+</div>
+
+
+<a class="anchor" id="resumos"></a>
 <div class="container-fluid">
     <div class="container">
+        <br><br><br><br>
+        <h2>Resumos estendidos - ERRC e WRSeg</h2>
+        <p>
+            <?php include 'programacao_resumos.php';?>
+        </p>
+        <br><br>
+    </div>
+</div>
 
-<?php
-    require_once('trabalhos_aceitos_wrseg2019.php');
-?>
 
-    </div> <!-- fim container --> 
-</div> <!-- fim container fluid --> 
 
+
+<a class="anchor" id="chamada"></a>
 <div class="container-fluid bg-success">
     <div class="container">
 
