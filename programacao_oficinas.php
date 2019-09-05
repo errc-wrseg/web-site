@@ -29,7 +29,7 @@
 
         <a class="anchor" id="minicursos_trend"></a>   
         <h3>Oficina 3: Threat Defense Workshop (oferecido por <a href="https://www.trendmicro.com/" target="_blank" title="Trend Micro">Trend Micro</a>)</h3>
-        <p><b>Data:</b> 17/09/2019 <b>Horário:</b> 08:00-16:00 <b>Local:</b> DTIC</p>
+        <p><b>Data:</b> 17/09/2019 <b>Horário:</b> 08:00-16:00 <b>Local:</b> Laboratório 102</p>
         <p>
         <b>Descrição:</b> O Threat Defense Workshop é uma simulação de ataques cibernéticos do mundo real, em que os participantes desempenham o papel de um analista de segurança recém-contratado em uma empresa fictícia sob ataque. Os participantes devem assumir riscos e resolver diferentes desafios para entender como o ataque começa, a complexidade dele e como proteger proativamente seus ativos de valor no data center com a orientação de um especialista.
         </p>
@@ -61,7 +61,7 @@
 
         <a class="anchor" id="minicursos_fibre"></a>
         <h3> Oficina 5: Testbed Fibre: Usando Testbeds para pesquisa e aprendizado em redes de computadores (oferecido por <a href="https://www.fibre.org.br/" target="_blank" title="Trend Micro">FIBRE</a>)</h3>
-        <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30, 14:30-16:00 <b>Local:</b> DTIC</p>
+        <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30, 14:30-16:00 <b>Local:</b> Laboratório 102</p>
         <p>
             <b>Descrição:</b> O testbed FIBRE  (Future Internet Brazilian environment for Experimentation) é uma infraestrutura voltada para realização de pesquisas no campo de Internet do Futuro, tais como novas arquiteturas de redes de computadores e experimentação com redes de sensores. O testbed é aberto para a utilização por estudantes, professores e pesquisadores que desejem testar novas arquiteturas, protocolos e aplicações. Diferente de simuladores, o FIBRE expõe o usuário a um ambiente de experimentação de larga escala, baseado em dispositivos físicos (como switches e servidores), onde problemas observados no "mundo real", como limitações de hardware, latência, perda de pacotes, entre outros, podem ser experimentados.  </p>
         
@@ -86,7 +86,7 @@
         
     
         <h3>Oficina 6: Hack The Box: Introdução ao Pentest</h3>
-        <p><b>Data:</b> 19/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
+        <p><b>Data:</b> 19/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> Laboratório 102</p>
         <p><b>Autores:</b> Felipe Melchior, Rafael Fernandes, Diego Kreutz (UNIPAMPA)</p>
         <p>
         <b>Resumo:</b> No contexto da sociedade moderna, que é cada vez mais dependente da tecnologia, as discussões sobre segurança ̧a de sistemas e dados vêm ganhando destaque e importância. Um dos principais motivos é o número crescente de incidentes de segurança, em especial com relação aos sistemas e dispositivos conectados à Internet. Esta oficina tem como objetivo demonstrar na prática como funcionam os testes de intrusão de sistemas online através da plataforma Hack The Box (HTB - https: //www.hackthebox.eu). Os laboratórios de pentesting disponibilizados pela HTB representam importantes recursos de formação de profissionais capazes de entender e lidar com os mais diversos tipos de desafios do ciber espaço atual. Como resultado, esperamos contribuir com a formação e conscientização de estudantes e profissionais de computação o no que diz respeito à segurança de sistemas e dados. Além disso, destacar o motivo pelo qual é necessário, cada vez mais, um profissional da área de segurança pensar como um atacante para conseguir identificar ataques e construir defesas cada vez mais robustas. 
