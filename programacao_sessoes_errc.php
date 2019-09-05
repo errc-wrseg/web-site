@@ -107,7 +107,7 @@
     <br>
     <br>
 
-    <b>Plataforma e-consumo: Monitoramento Inteligente do Consumo de Energia Elétrica em Residências [média geral no JEMS: 8.1]</b>
+    <b>Plataforma e-consumo: Monitoramento Inteligente do Consumo de Energia Elétrica em Residências</b>
     <br>
     <i>Larissa Del Rio, Andre Eichner, Tiago Antônio Rizzetti (Universidade Federal de Santa Maria - UFSM)</i>
     <br>
