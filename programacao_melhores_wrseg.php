@@ -1,6 +1,6 @@
 <!-- INICIO CONTEUDO PROGRAMACAO_MELHORES_WRSEG -->
 <br>
-<b>Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet [média geal no JEMS: 9.2]</b>
+<b>Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet [média geral no JEMS: 9.2]</b>
 <br>
 <i>Ariel Góes de Castro, Felipe Quirino, Francisco Vogt, Diego Kreutz, João Otávio Chervinski (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>
