@@ -13,7 +13,11 @@
       Agr&iacute;cola, Engenharia El&eacute;trica e Engenharia
       Mec&acirc;nica) e 4 cursos de pós-graduação (Mestrado em Engenharia de Software, Mestrado em Engenharia Elétrica, Mestrado em Engenharias e Especialização em Engenharia Econômica).
     </p>
-
+	
+	<h4>Palestra no auditório do Sicredi</h4>
+    <p>
+      As palestras e a cerimônia de abertura programadas para o dia 17/09/2019 serão realizadas no auditório da Superitendência Regional do Sicredi em Alegrete.
+    </p>
 <!--
     <h4>Centro de eventos do Sicredit</h4>
     <p>
@@ -103,7 +107,10 @@
 
 
     <div class="container" align="center" >
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen>
-      </iframe>
+      	<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3462.587342665628!2d-55.77078578492336!3d-29.78957158197562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95aab98a8f097415%3A0xba478dd53e4e9407!2sUniversidade+Federal+do+Pampa+-+Campus+Alegrete!5e0!3m2!1spt-BR!2sbr!4v1548173740800" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen>
+      	</iframe> -->
+		
+		<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d27698.162813705076!2d-55.80070237093877!3d-29.798732946213114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x95aab9e540fd67a7%3A0xe0dfbc61770cb6af!2sUNIPAMPA%20-%20Avenida%20Tiaraju%20-%20Ibirapuit%C3%A3%2C%20Alegrete%20-%20RS!3m2!1d-29.7891905!2d-55.7681854!4m5!1s0x95aab833347d6f3b%3A0x7e402233116bb1d7!2sSICREDI%20-%20Superintend%C3%AAncia%20Regional%20-%20RS-566%20-%20Centro%2C%20Alegrete%20-%20RS!3m2!1d-29.8010545!2d-55.8025854!5e0!3m2!1spt-BR!2sbr!4v1568052733548!5m2!1spt-BR!2sbr" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+		
       <br><br><br><br>
     </div> <!--FIM-CONTAINER GMAPS -->
