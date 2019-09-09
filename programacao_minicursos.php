@@ -1,6 +1,6 @@
 <!-- INICIO CONTEUDO PROGRAMACAO_MINICURSOS      -->
     <h3>Minicurso 1: Introdução à Tecnologia dos Blockchains: Teoria e Prática</h3>
-    <p><b>Data:</b> 16/09/2019 <b>Horário:</b> 14:30-16:00, 16:30-18:00 <b>Local:</b> DTIC</p>
+    <p><b>Data:</b> 16/09/2019 <b>Horário:</b> 14:30-16:00, 16:30-18:00 <b>Local:</b> Laboratório 102</p>
     <p><b>Autores:</b> João Otávio Chervinski, Felipe Melchior, Rafael Fernandes, Guilherme Neri, Lucas Antunes, Diego Kreutz, Rodrigo Mansilha (UNIPAMPA)</p>
     
      <p>
