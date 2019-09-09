@@ -109,7 +109,7 @@
 <h4>MELHORES PAPERS DO WRSeg 2019</h4>
 <p>
 <br>
-<b>Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet [média geal no JEMS: 9.2]</b>
+<b>Os meus dados de fato vazaram? Uma análise de serviços que monitoram vazamentos de dados na Internet [média geral no JEMS: 9.2]</b>
 <br>
 <i>Ariel Góes de Castro, Felipe Quirino, Francisco Vogt, Diego Kreutz, João Otávio Chervinski (Universidade Federal do Pampa - UNIPAMPA)</i>
 <br>

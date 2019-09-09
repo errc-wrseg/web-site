@@ -9,3 +9,4 @@
     abstract = {O HTTPS (SSL/TLS) é essencial para garantir a segurança (e.g. confidencialidade dos dados) das comunicações que utilizam o protocolo HTTP na Internet. Entretanto, apesar da crescente adoção do HTTPS, muitos sites ainda não implementam da maneira correta os certificados digitais. Neste trabalho é presentado um primeiro levantamento sobre o estado do ecossistema SSL/TLS no Brasil. Para a análise, foram selecionados 44 sites de instituições financeiras e governamentais, incluindo o governo federal e governos estaduais. Os resultados apontam que a maioria dos sites utilizam ou suportam versões antigas do SSL ou do TLS, que contém vulnerabilidades conhecidas e passíveis de exploração por agentes maliciosos.},
     keywords = {Análise de protocolos de segurança; Segurança em redes; Software seguro: desenvolvimento, testes e certificação},
     url = {http://errc.sbc.org.br/2019/wrseg/papers/escarrone2019uma.pdf},
+}
