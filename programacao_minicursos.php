@@ -1,6 +1,8 @@
 <!-- INICIO CONTEUDO PROGRAMACAO_MINICURSOS      -->
     <h3>Minicurso 1: Introdução à Tecnologia dos Blockchains: Teoria e Prática</h3>
+    <p>
     <a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.bib.txt">[BibTeX ISO-8859-1]</a>
+    </p>
     <p><b>Data:</b> 16/09/2019 <b>Horário:</b> 14:30-16:00, 16:30-18:00 <b>Local:</b> Laboratório 102</p>
     <p><b>Autores:</b> João Otávio Chervinski, Felipe Melchior, Rafael Fernandes, Guilherme Neri, Lucas Antunes, Diego Kreutz, Rodrigo Mansilha (UNIPAMPA)</p>
     
@@ -11,6 +13,9 @@
     
 
     <h3>Minicurso 2: Introdução à Propriedades Avançadas de Segurança da Informação</h3>
+    <p>
+    <a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.bib.txt">[BibTeX ISO-8859-1]</a>
+    </p>
     <p><b>Data:</b> 17/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
     <p><b>Autores:</b> Diego Kreutz, Sabrina Carlé Winckler, Rodrigo de Oliveira Barbosa, João Otávio Chervinski, Tadeu Jenuário (UNIPAMPA)</p>
      <p>
@@ -21,8 +26,11 @@
             
     
     <h3>Minicurso 3: Introdução à linguagem de programação P4, o futuro das redes</h3>
+    <p>
+    <a href="https://errc.sbc.org.br/2019/mc/camera2019p4.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/camera2019p4.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/camera2019p4.bib.txt">[BibTeX ISO-8859-1]</a>
+    </p>
     <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
-    <p><b>Autores:</b> Alisson B. Zanetti, Pedro E. Camera, Marco A. Trentin, Ricardo O. Schmidt (UPF)</p>
+    <p><b>Autores:</b> Pedro E. Camera e Alisson B. Zanetti (UPF)</p>
     <p>
     <b>Resumo:</b>As redes de computadores tradicionais enfrentam grandes desafios de manutenibilidade frente às demandas atuais por conexões rápidas e dinâmicas. O crescente uso de recursos de rede nos seus mais variados níveis, aliado ao privilégio de configurações por parte dos fabricantes, tornaram o emprego das arquiteturas conhecidas uma pra ́tica engessada, complexa e pouco fértil para novas aplicações. Utilizando-se de uma compreensão que separa os módulos de controle das demais funções de rede, definindo-os por meio de software, o paradigma SDN quebra a integração vertical entre a gerência de rede e a camada por onde os dados trafegam, proporcionando o controle centralizado dos equipamentos, abstraindo muito da complexidade empregada nos ambientes de rede, quer por políticas dos fabricantes, quer pela natureza da arquitetura tradicional. Este minicurso tem como objetivo demonstrar o funcionamento destas novas tecnologias, com ênfase na programação do plano de dados por meio da linguagem P4, utilizando-se de ambientes simulados e manipulados pelo próprio cursista, compreendendo assim o imenso universo de possibilidades a serem exploradas nesta nova dinâmica por trás das redes futuras. 
     </p>   
@@ -31,6 +39,9 @@
     
         
     <h3>Minicurso 4: Análise de tráfego de máquinas virtuais na rede de controle de nuvens computacionais baseadas em OpenStack</h3>
+    <p>
+    <a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.bib.txt">[BibTeX ISO-8859-1]</a>
+    </p>
     <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 14:30-16:00, 16:30-18:00 <b>Local:</b> DTIC</p>
     <p><b>Autores:</b> Adnei Willian Donatti, Charles Christian Miers, Guilherme Piêgas Koslovski, Maurício Aronne Pillon (UDESC)</p>
     <p>
@@ -40,8 +51,11 @@
     
 
     <h3>Minicurso 5: Web Application Firewalls (WAFs): Teoria e Prática</h3>
+    <p>
+    <a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.bib.txt">[BibTeX ISO-8859-1]</a>
+    </p>
     <p><b>Data:</b> 19/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
-    <p><b>Autores:</b> Felipe Melchior, Diego Kreutz, Mauricio Fiorenza, Fernando Flora (UNIPAMPA), Douglas Macedo (UFSC)</p>
+    <p><b>Autores:</b> Felipe Melchior, Diego Kreutz, Mauricio Fiorenza, Fernando Flora, Rafael Fernandes, Thiago Escarrone (UNIPAMPA), Isadora Ferrão (USP), Douglas Macedo (UFSC)</p>
     
     <p>
     <b>Resumo:</b> Relatórios especializados indicam que aproximadamente 90% das aplicações disponibilizadas na Web apresentam algum tipo de vulnerabilidade. A boa notícia é que estudos recentes apontam que frameworks de desenvolvimento de software e ferramentas de segurança como Web Application Firewalls conseguem mitigar a exploração de mais de 70% das vulnerabilidades de uma aplicação Web. Neste contexto, o objetivo deste minicurso é demonstrar, na teoria e na prática, como a utilização, a escolha e a otimização de WAFs pode contribuir de forma significativa na proteção de aplicações Web contra os principais tipos de ataques que buscam explorar as vulnerabilidades mais recorrentes em aplicações Web. Durante o minicurso, iremos apresentar conceitos teóricos fundamentais para a adequada compreensão, configuração e utilização de Web Application Firewalls. Além disso, iremos utilizar máquinas virtuais pré-configuradas para demonstrar na prática o funcionamento e impacto de WAFs na proteção de aplicações Web. Como resultado, esperamos contribuir de forma significativa na conscientização de estudantes e profissionais de computação sobre a importância do uso de WAFs na proteção de aplicações Web.

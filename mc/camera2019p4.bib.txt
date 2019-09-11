@@ -1,0 +1,12 @@
+@inproceedings{camera2019p4,
+    author = {Pedro Eduardo Camera and Alisson Borges Zanetti},
+    title = {{Introducao a linguagem de programacao P4, o futuro das redes}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Este minicurso tem como objetivo explanar o funcionamento da linguagem P4, demostrando sua relevancia nos dias atuais por meio de exemplos de aplicacao pratica, como o monitoramento e links entre os equipamentos de rede. Dispondo de um referencial teorico e exercicios, este documento discorre sobre os principais pontos das redes SDN e de como a programacao de pacotes no plano de dados, na figura do P4, possibilita o aumento da experiencia de usuario, capacidade de troubleshooting, otmizacao do uso de recursos e centralizacao do controle de rede.},
+    url = {http://errc.sbc.org.br/2019/mc/kreutz2019propriedades.pdf},
+} 
+

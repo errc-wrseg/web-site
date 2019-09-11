@@ -1,0 +1,12 @@
+@inproceedings{kreutz2019propriedades,
+    author = {Diego Kreutz, Sabrina Carle Winckler, Rodrigo de Oliveira Barbosa, Joao Otavio Chervinski, Tadeu Jenuario},
+    title = {{Introducao a Propriedades Basicas e Avancadas de Seguranca da Informacao}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Em protocolos de segurança tradicionais, assumimos que não há mais o que fazer se a chave secreta, compartilhada entre os usuários Alice e Bob, que estão trocando mensagens entre si, for comprometida. De fato, se considerarmos apenas as propriedades básicas de segurança (e.g. confidencialidade, integridade e autenticidade), tanto comunicações passadas quanto futuras serão comprometidas no momento em que a chave secreta for comprometida. Entretanto, existem propriedades e características avançadas de segurança, como Perfect Forward Secrecy (PFS), Post-Compromise Recovery (PCR) e Post-Compromise Secure (PCS) que permitem a construção de protocolos de segurança mais resilientes ao comprometimento de chaves secretas. Enquanto PFS protege comunicações passadas, PCR e PCS têm por objetivo recuperar o protocolo a um estado seguro e proteger comunicações futuras, respectivamente. Adicionalmente, outra propriedade desejada no projeto de protocolos atuais e futuros é a PQS (Post-Quantum Secure). Esta propriedade assegura que os protocolos não serão alvos fáceis de computadores quânticos, que são capazes de quebrar a segurança de protocolos tradicionais, como o RSA e o Diffie-Hellman, utilizando apenas ataques de força-bruta. Como estas propriedades de segurança são pouco exploradas na literatura, ou recentes como é o caso da PCR, PCS e PQS, neste minicurso o nosso objetivo é apresentar uma visão geral, de forma didática e progressiva, de propriedades básicas e avançadas de segurança no projeto de protocolos e sistemas mais robustos. Além disso, nós apresentaremos exemplos reais de protocolos e sistemas que utilizam as diferentes propriedades de segurança discutidas. Finalmente, iremos também demonstrar, de forma simples e didática, a importância da utilização de ferramentas formais para verificação automática de protocolos de segurança, como os apresentados durante o minicurso.},
+    url = {http://errc.sbc.org.br/2019/mc/kreutz2019propriedades.pdf},
+} 
+
