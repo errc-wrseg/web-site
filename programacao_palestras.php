@@ -9,7 +9,7 @@
 		<b>Minibio:</b> CEO na Forte Security, Graduado em Sistemas de Informação pela Antonio Meneghetti Faculdade. MBA Executivo Identidade Empresarial na Antonio Meneghetti Faculdade. Docente no curso de Sistemas de Informação na Faculdade Antonio Meneghetti. Certificações: ITIL, Cloud Computing, ISO 20k, LPIC-3, Novell, Microsoft, Cyberoam, Sophos, Citrix, Nutanix,AWS, Ubiquiti e IPv6. Atuo como membro individual no Openstack Foundation, colaborador em diversos fóruns de TI e palestrante em eventos com os temas que envolvem virtualização, cloud computing, segurança da informação e gerenciamento de projetos, empre  endedorismo e liderança.
         </p>
 
-		<a class="anchor" id="palestras_renato"></a>
+	<!--	<a class="anchor" id="palestras_renato"></a>
         <h3>Palestra 2: Threat Hunting - A evolução do SOC (por Renato Fontana)</h3>
 		<p><b>Data:</b> 17/09/2019 <b>Horário:</b> 16:30-17:30 <b>Local:</b> Auditório 101</p>
         <p>
@@ -21,13 +21,13 @@
         </p>
         <p>
         <b>Minibio:</b> Analista de Segurança de Redes, Resposta a Incidentes e Threat Hunter. MSc System and Network Engineering - Forensics, University of Amsterdam. 
-        </p>
+        </p> -->
 
 
 
 		<br>
         <a class="anchor" id="palestras_roben"></a>
-        <h3>Palestra 3: Blockchain em IoT: tendências e riscos (por Roben Lunardi)</h3>
+        <h3>Palestra 2: Blockchain em IoT: tendências e riscos (por Roben Lunardi)</h3>
         <p><b>Data:</b> 17/09/2019 <b>Horário:</b> 18:30-19:30 <b>Local:</b> Auditório Sicredi</p>
         <p>
         <b>Descrição:</b> Blockchain é um conceito que surgiu e se popularizou com a criptomoeda Bitcoin, porém ganhou novas proporções. Atualmente, diferentes blockchains foram propostas, com os mais diferentes usos. Em específico no contexto de Internet das Coisas (IoT), blockchain pode trazer muitos benefícios no que se refere à integridade e não repúdio das informações produzidas por diferentes dispositivos. Para isso, a palestra apresentará os principais avanços para a adoção de blockchains em IoT, as principais abordagens propostas pela academia, e as tendências de mercado. Ainda serão discutidos problemas, benefícios, e áreas onde Blockchain em IoT possui potencial para expansão. Adicionalmente, serão discutidos novos conceitos trazidos pelas blockchains como o uso de Smart Contracts e Tokens no contexto de IoT. 
@@ -40,7 +40,7 @@
 
         <br>
         <a class="anchor" id="palestras_tiago"></a>
-        <h3> Palestra 4: IPv6: conceitos, desafios e vantagens para a Internet das coisas (por Tiago Sanchotene)</h3>
+        <h3> Palestra 3: IPv6: conceitos, desafios e vantagens para a Internet das coisas (por Tiago Sanchotene)</h3>
         <p><b>Data:</b> 17/09/2019 <b>Horário:</b> 19:30-20:30 <b>Local:</b> Auditório Sicredi</p>
         <p>
         <b>Descrição:</b> A disponibilidade de IPv4 está com os dias contados. Com o surgimento e rápido crescimento da Internet das coisas (IoT), a tendência é a disponibilidade de IPv4 acabar ainda mais cedo. IPv6 é a alternativa existente para resolver o problema da disponibilidade de endereços IP. A palestra irá apresentar os principais conceitos de IPv6 e tentar responder perguntas como: (a) Qual é o status da implementação do IPv6 no Brasil? (b) Quais são os desafios para a utilização de IPv6 em IoT? (c) Quais são as vantagens de utilização de IPv6 em equipamentos da Internet das coisas?
@@ -53,7 +53,7 @@
         
 		<br>
         <a class="anchor" id="palestras_conterato"></a>
-        <h3> Palestra 5: A Importância das Certificações para os Profissionais de TIC (por Marcelo Conterato)</h3>
+        <h3> Palestra 4: A Importância das Certificações para os Profissionais de TIC (por Marcelo Conterato)</h3>
         <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 16:30-17:30 <b>Local:</b> Auditório 101</p>
         <p>
         <b>Descrição:</b> O diploma de um curso superior nem sempre é o bastante em um mercado de trabalho cada vez mais competitivo. Para conquistar maior destaque e oportunidades na carreira, é importante investir em certificações para maior qualificação profissional, se aperfeiçoar e expandir seus conhecimentos. As certificações são a garantia de que a pessoa possui um conhecimento aprofundado sobre determinada tecnologia. Mais do que isso, também demonstram que o profissional busca atualizar-se e aprimorar-se, ou seja, são um sinal de dedicação, interesse e esforço.
