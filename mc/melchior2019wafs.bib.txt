@@ -1,5 +1,5 @@
-@inproceedings{melchior2019wafs,
-    author = {Felipe Melchior, Diego Kreutz, Mauricio Fiorenza, Fernando Flora, Isadora Ferrao, Rafael Fernandes, Thiago Escarrone, Douglas Macedo},
+@inproceedings{melchior2019wafsmc,
+    author = {Felipe Melchior and Diego Kreutz and Mauricio Fiorenza and Fernando Flora and Isadora Ferrao and Rafael Fernandes and Thiago Escarrone and Douglas Macedo},
     title = {{Introducao a Web Application Firewalls (WAFs): Teoria e Pratica}},
     booktitle = {17a Escola Regional de Redes de Computadores},
     address = {Alegrete-RS, Brasil},
