@@ -1,6 +1,6 @@
 @inproceedings{kreutz2019propriedades,
     author = {Diego Kreutz and Sabrina Carle Winckler and Rodrigo de Oliveira Barbosa and Joao Otavio Chervinski and Tadeu Jenuario},
-    title = {{Introducao a Propriedades Basicas e Avancadas de Seguranca da Informacao}},
+    title = {{Introdução a Propriedades Básicas e Avançadas de Segurança da Informação}},
     booktitle = {17a Escola Regional de Redes de Computadores},
     address = {Alegrete-RS, Brasil},
     days = {16-19},

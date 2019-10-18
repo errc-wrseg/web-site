@@ -1,6 +1,6 @@
 @inproceedings{camera2019p4,
     author = {Pedro Eduardo Camera and Alisson Borges Zanetti},
-    title = {{Introducao a linguagem de programacao P4, o futuro das redes}},
+    title = {{Introdução a linguagem de programação P4, o futuro das redes}},
     booktitle = {17a Escola Regional de Redes de Computadores},
     address = {Alegrete-RS, Brasil},
     days = {16-19},

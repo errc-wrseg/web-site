@@ -1,6 +1,6 @@
 @inproceedings{miers2019openstack,
     author = {Charles Christian Miers and Guilherme Piegas Koslovski and Mauricio Aronne Pillon and Adnei Willian Donatti},
-    title = {{Analise do trafego de maquinas virtuais na rede de controle de nuvens computacionais baseadas em OpenStack}},
+    title = {{Análise do tráfego de máquinas virtuais na rede de controle de nuvens computacionais baseadas em OpenStack}},
     booktitle = {17a Escola Regional de Redes de Computadores},
     address = {Alegrete-RS, Brasil},
     days = {16-19},
