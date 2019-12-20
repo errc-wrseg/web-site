@@ -90,11 +90,11 @@
                 <a href="https://www.sicredi.com.br" target="_blank" title="Sicredi">
                     <img class="patrocinadora-diamante" alt="Sicredi" src="img/logo_inst_patrocinadora/sicredi_horizontal.png">
                 </a>
-                <!-- cancelado 
+                
                 <a href="http://www.cnpq.br" target="_blank" title="CNPq">
                     <img class="patrocinadora-diamante" alt="CNPq" src="img/logo_inst_patrocinadora/cnpq.png">
                 </a>
-                -->
+               
             <h4>Patrocínio Ouro</h4>
                 <a href="http://www.conesul.net" target="_blank" title="RedeConesul Telecom">
                     <img class="patrocinadora-ouro" alt="RedeConesul Telecom" src="img/logo_inst_patrocinadora/conesul-marca-errc-01.png">
@@ -125,10 +125,11 @@
             <h4>Apoio</h4>
             
             <img class="apoiadora" alt="Raptor" src="img/logo_inst_patrocinadora/Raptor-logo.jpeg">
-            
-
-            
-            
+           
+                       
+            <a href="https://www.garupa.co/" target="_blank" title="Garupa">
+                     <img class="apoiadora" alt="Garupa" src="img/logo_inst_patrocinadora/garupa.png">
+            </a>
            
 
         </div> <!-- end col -->
