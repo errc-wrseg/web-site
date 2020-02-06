@@ -11,7 +11,9 @@
           <img class="img-responsive" src="img/cronograma.png">   
         </p>
         <br>
+		<h3><a href="https://sol.sbc.org.br/index.php/errc/issue/view/495">Anais do ERRC publicados no SBC OpenLib</a></h3>
     </div>
+	
 </div>
 
 <a class="anchor" id="melhorestrabalhos"></a>
