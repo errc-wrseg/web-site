@@ -1,0 +1,139 @@
+
+-------------------------------------------------------
+Sobre o Evento - PT
+
+<p>A Escola Regional de Redes de Computadores (ERRC) é um evento realizado pela SBC desde 2006. O evento serve como ponto de encontro para alunos e profissionais, apresentando a área para novos talentos e catalisando potenciais colaborações entre a indústria e instituições a academia. Os Anais do ERRC são publicados anualmente, trazendo os artigos e resumos estendidos selecionados para cada edição do evento.</p>
+
+<h3>Tópicos de Interesse</h3>
+<p>Os tópicos de interesse do ERRC incluem:</p>
+<ul>
+<li class="show">Arquitetura de redes</li>
+<li class="show">Computação na nuvem</li>
+<li class="show">Computação orientada a serviços</li>
+<li class="show">Computação sensível ao contexto</li>
+<li class="show">Computação ubíqua/pervasiva</li>
+<li class="show">Desempenho, escalabilidade e confiabilidade</li>
+<li class="show">Engenharia e controle de tráfego</li>
+<li class="show">Especificação, validação e verificação</li>
+<li class="show">Futura Internet</li>
+<li class="show">Gerenciamento e operação de redes</li>
+<li class="show">Medição e monitoração de redes</li>
+<li class="show">Projeto e análise de redes</li>
+<li class="show">Protocolos de redes</li>
+<li class="show">Qualidade de experiência e de serviços</li>
+<li class="show">Redes autonômicas e auto-organizáveis</li>
+<li class="show">Redes centradas em informação (ICN)</li>
+<li class="show">Redes definidas por software (SDN)</li>
+<li class="show">Redes de sensores</li>
+<li class="show">Redes P2P</li>
+<li class="show">Redes móveis</li>
+<li class="show">Redes ópticas</li>
+<li class="show">Redes sem fio</li>
+<li class="show">Redes sociais</li>
+<li class="show">Redes sustentáveis (Green Networking)</li>
+<li class="show">Redes tolerantes a atrasos/interrupções</li>
+<li class="show">Redes veiculares</li>
+<li class="show">Roteamento, comutação e endereçamento</li>
+<li class="show">Segurança em redes</li>
+<li class="show">Serviços Web</li>
+<li class="show">Tecnologia e acesso de banda larga</li>
+<li class="show">Tolerância a falhas e resiliência</li>
+<li class="show">TV Digital</li>
+<li class="show">Virtualização de funções de rede (NFV)</li>
+<li class="show">Virtualização de redes</li>
+</ul>
+<h3>Mais informações</h3>
+<p>Para obter mais informações sobre o ERRC, visite o <a href="https://errc.sbc.org.br" target="blank">site do evento</a>. </p>
+
+
+-------------------------------------------------------
+
+About the Event - EN
+
+<p>The Regional School of Computer Networks (ERRC) is an event held by SBC since 2006. The event serves as a meeting place for students and professionals, introducing the area to new talent and catalyzing potential collaborations between industry and academia. The Proceedings of ERRC are published annualy, bringing the articles selected for each edition of the event.</p>
+
+<h3>Topics of Interest</h3>
+<p>ERRC topics of interest include, but are not limited to:</p>
+<ul>
+<li class="show">Network architecture</li>
+<li class="show">Cloud computing</li>
+<li class="show">Service driven computing</li>
+<li class="show">Context aware computing</li>
+<li class="show">Pervasive computing</li>
+<li class="show">Performance, scalability, reliability</li>
+<li class="show">Traffic engineering and control</li>
+<li class="show">Specification, validation and verification</li>
+<li class="show">Future Internet</li>
+<li class="show">Network management and operations</li>
+<li class="show">Network measurement and monitoring</li>
+<li class="show">Network design and analysis</li>
+<li class="show">Network protocols</li>
+<li class="show">Quality of experience and services</li>
+<li class="show">Autonomic and self-organizing networks</li>
+<li class="show">Information-centric networks (ICN)</li>
+<li class="show">Software-Defined Networking (SDN)</li>
+<li class="show">Sensor networks</li>
+<li class="show">P2P networks</li>
+<li class="show">Mobile networks</li>
+<li class="show">Optical networks</li>
+<li class="show">Wireless networks</li>
+<li class="show">Social networks</li>
+<li class="show">Green networking</li>
+<li class="show">Delay/interruption tolerant networks</li>
+<li class="show">Vehicle networks</li>
+<li class="show">Routing, switching and addressing</li>
+<li class="show">Network security</li>
+<li class="show">Web services</li>
+<li class="show">Broadband technology and access</li>
+<li class="show">Fault tolerance and resilience</li>
+<li class="show">Digital TV</li>
+<li class="show">Network function virtualization (NFV)</li>
+<li class="show">Network virtualization</li>
+</ul>
+
+<h3>Additional information</h3>
+<p>For more information about ERRC, visit the <a href="https://errc.sbc.org.br" target="blank">event's website</a>. </p>
+
+-------------------------------------------------------
+
+Expediente
+
+<h3>Comissão organizadora do evento</h3>
+<p>A Escola Regional de Redes de Computadores de 2019 foi organizada pela UNIPAMPA, em parceria com IFFarroupilha, Setrem, UDESC, UPF, UFSM, UFRGS, IFRS, UNICAMP, Unisinos e Unijui. Os organizadores, que foram responsáveis pela organização geral do evento e pela publicação dos Anais do ERRC, são:</p>
+<ul>
+<li class="show">Rodrigo Mansilha (UNIPAMPA) - Coordenador Geral</li>
+<li class="show">Marcelo Caggiani Luizelli  (UNIPAMPA) - Vice-Coordenador</li>
+<li class="show">Diego Kreutz (UNIPAMPA) - Coordenador do Comitê de Programa</li>
+<li class="show">Ricardo Schimidt (UPF) - Vice-Coordenador do Comitê de Programa</li>
+</ul>
+<p>Para ver os Coordenadores de cada edição do evento e os respectivos integrantes dos Comitês de Programa, que participam do processo de revisão por pares, visite o <a href="https://errc.sbc.org.br" target="blank">site do evento</a>.</p>
+
+<h3>Periodicidade</h3>
+<p>Os Anais do ERRC são publicados anualmente.</p>
+
+<h3>Idiomas</h3>
+<p>São aceitos artigos em português e inglês para publicação nos Anais do ERRC.</p>
+
+<h3>Direitos Autorais</h3>
+<p>Os autores dos artigos publicados nos Anais do ERRC retêm os direitos autorais de suas obras e autorizam a SBC a publicá-las de acordo com os termos da licença Creative Commons Attribution-NonComercial 4.0 International Public License (CC BY-NC 4.0). Dessa forma, fica permitido aos autores ou a terceiros a reprodução ou distribuição, em parte ou no todo, de material extraído dessas obras, de forma verbatim, adaptada ou remixada, bem como a criação ou produção a partir do conteúdo dessas obras, para fins não comerciais, desde que sejam atribuídos os devidos créditos às criações originais. Cópias das obras não devem ser utilizadas de nenhum modo que implique o endosso da SBC.</p>
+
+<h3>Responsável pela publicação</h3>
+<p><strong>José Viterbo Filho</strong> | Diretor de Publicações<br/> Sociedade Brasileira de Computação<br/> Av. Bento Gonçalves, 9500 | Setor 4 | Prédio 43.412 | Sala 219<br/> Bairro Agronomia | Porto Alegre - RS | CEP 91501-970<br/> (51) 3308-6835 <br/> publicacoes@sbc.org.br</p>
+
+-------------------------------------------------------
+
+Sobre a Edição do Evento PT
+
+
+<p>Os Anais da 17a Escola Regional de Redes de Computadores trazem os artigos selecionados e apresentados na edição do evento realizada em Alegrete-RS, no período de 16 a 19 de setembro de 2019. Nesta edição, os anais incluem 14 artigos completos e 6 artigos curtos. Esses trabalhos foram selecionados através de um processo de revisão por pares do tipo "blind", de um total de 30 artigos completos e 6 artigos curtos submetidos, o que implicou numa taxa de aceitação de 47 porcento e 100 porcento, respectivamente. O comitê de programa do evento foi coordenado por Diego Kreutz e Ricardo Schimidt, que organizaram este volume. Os artigos que integram este volume foram submetidos em 30 de julho de 2019, aceitos para publicação em 18 de agosto de 2019, tendo a versão final submetida em 28 de agosto de 2019.</p>
+
+<p>Para mais informações, visite o <a href="https://errc.sbc.org.br/2019"> site desta edição do evento</a>.</p>
+
+
+
+About this Edition EN
+
+<p>The Proceedings of the 17th Escola Regional de Redes de Computadores bring the papers selected and presented in the edition of the event held in Alegrete-RS, during the period September 16 to 19, 2019. In this issue, the proceedings include 14 full papers and 6 short papers. These papers were selected through a blind peer review process, from a total of 30 full papers and 6 short papers submitted, which implied an acceptance rate of 46 percent and 100 percent, respectively. The event's program committee was coordinated by Diego Kreutz and Ricardo Schimidt, who organized this volume. The articles in this volume were submitted on July 30, 2019, accepted for publication on August 18, 2019, with the final version submitted on August 28, 2019.</p>
+
+<p>For more information, visit the <a href="https://errc.sbc.org.br/2019"> website of the event</a>.</p>
+
