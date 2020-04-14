@@ -1,0 +1,12 @@
+@inproceedings{capeletti2019composio,
+    author = {Igor Capeletti and Fabio Rossi and Marcelo Caggiani Luizelli},
+    title = {{Composição Eficiente de Encadeamento de Funções de Serviços}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Ainda está para ser definido, mas o tema é voltado em Funções de Virtualização de Redes para novas tecnologias de internet.},
+    keywords = {Virtualizacao de funcões de rede},
+    url = {http://errc.sbc.org.br/2019/papers/capeletti2019composio.pdf},
+} 

@@ -1,0 +1,12 @@
+@inproceedings{melchior2019wafsmc,
+    author = {Felipe Melchior and Diego Kreutz and Mauricio Fiorenza and Fernando Flora and Isadora Ferrao and Rafael Fernandes and Thiago Escarrone and Douglas Macedo},
+    title = {{Introdução a Web Application Firewalls (WAFs): Teoria e Prática}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Relatorios especializados indicam que aproximadamente 90\% das aplicacoes disponibi- lizadas na Web apresentam algum tipo de vulnerabilidade. A boa noticia e que estudos recentes apontam que frameworks de desenvolvimento de software e ferramentas de segu- ranca como Web Application Firewalls conseguem mitigar a exploracao de mais de 70\% das vulnerabilidades de uma aplicacao Web. Neste contexto, o objetivo deste minicurso e demonstrar, na teoria e na pratica, como a utilizacao, a escolha e a otimizacao de WAFs pode contribuir de forma significativa na protecao de aplicacoes Web contra os principais tipos de ataques que buscam explorar as vulnerabilidades mais recorrentes em aplicacoes Web. Durante o minicurso, serao apresentados conceitos teoricos fundamentais para a adequada compreensao, configuracao e utilizacao de Web Application Firewalls. Alem disso, serao utilizadas maquinas virtuais pre-configuradas para demonstrar na pratica o funcionamento e o impacto de WAFs na protecao de aplicacoes Web. Como resultado, espera-se contribuir na conscientizacao de estudantes e profissionais de computacao so- bre a importancia do uso de WAFs na protecao de aplicacoes Web.},
+    url = {http://errc.sbc.org.br/2019/mc/melchior2019wafs.pdf},
+} 
+

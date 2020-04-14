@@ -1,0 +1,13 @@
+@inproceedings{hohemberger2019rumo,
+    author = {Rumenigue Hohemberger and Fabio Rossi and Marcelo Caggiani Luizelli},
+    title = {{Rumo à visibilidade total da rede: uma estratégia adaptativa para coordenadar a coleta de dados de telemetria in-band}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {As redes programáveis vem ganhando espaço frente as redes tracionais principalmente no que diz respeito a capacidade e a velocidade de reorganização para atender as demandas de aplicações. Quanto as formas de monitoramento não foi diferente. Em um gerenciamento de redes pró-ativo, a visualização dos eventos que ocorrem na rede consiste em um fator primordial na busca e verificação rápida de qualquer anomalia que possa ocorrer, e que tenha a capacidade de influenciar no desempenho da rede. A maioria das anomalias de rede são arbitrárias e imprevisíveis, o que aumenta o desafio de monitoramento de tais problemas. As técnicas de monitoramento de rede tradicionais não conseguem inspecionar todos os dados necessários em redes atuais, devido a demanda crescente dos fluxos de rede das aplicações por recursos. Baseado nessas limitações, e o suporte das redes atuais às novas tecnologias de redes programáveis, a In-Band Network Telemetry Orchestration se apresenta como uma proposta viável de gerenciamento de fluxos, com o menor impacto no desempenho da rede e suas aplicações},
+    keywords = {Medicao e monitoracao de redes},
+    url = {http://errc.sbc.org.br/2019/papers/hohemberger2019rumo.pdf},
+} 
+

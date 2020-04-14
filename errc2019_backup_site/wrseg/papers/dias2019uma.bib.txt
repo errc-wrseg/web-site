@@ -1,0 +1,13 @@
+@inproceedings{dias2019uma,
+    author = {Lucas Dias and Tiago Antônio Rizzetti and Jean Garcia},
+    title = {{Uma arquitetura para prover autenticidade em comunicações Multicast }},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {De maneira geral, em comunicações multicast basta saber qual o endereço multicast e realizar requisições para se juntar a mesma, entretanto, dessa forma é possível que qualquer agente malicioso posso enviar mensagens que não tenham interesse para a mesma. Para isso, o trabalho traz uma arquitetura ponto-a-ponto com autenticação das entidades para distribuição de chaves envolvidas nas comunicações multicast.},
+    keywords = {Segurança em redes},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/dias2019uma.pdf},
+} 
+

@@ -1,0 +1,35 @@
+Arquitetura de redes
+Computação na nuvem
+Computação orientada a serviços
+Computação sensível ao contexto
+Computação ubíqua/pervasiva
+Desempenho, escalabilidade e confiabilidade
+Engenharia e controle de tráfego
+Especificação, validação e verificação
+Futura Internet
+Gerenciamento e operação de redes
+Medição e monitoração de redes
+Projeto e análise de redes
+Protocolos de redes
+Qualidade de experiência e de serviços
+Redes autonômicas e auto-organizáveis
+Redes centradas em informação (ICN)
+Redes definidas por software (SDN)
+Redes de sensores
+Redes P2P
+Redes móveis
+Redes ópticas
+Redes sem fio
+Redes sociais
+Redes sustentáveis (Green Networking)
+Redes tolerantes a atrasos/interrupções
+Redes veiculares
+Roteamento, comutação e endereçamento
+Segurança em redes
+Serviços Web
+Tecnologia e acesso de banda larga
+Tolerância a falhas e resiliência
+TV Digital
+Virtualização de funções de rede (NFV)
+Virtualização de redes
+

@@ -1,0 +1,14 @@
+@inproceedings{fiorenza2019firewalls,
+    author = {Maurício Fiorenza and Diego Kreutz},
+    title = {{Firewalls em Redes Definidas por Software: Estado da Arte}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Redes Definidas por Software, ou SDNs, representam um novo paradigma onde o controle da rede é logicamente centralizado. Este novo paradigma vem transformando o modo de pensar e gerir as redes, incluindo mudanças significativas na engenharia de tráfego e controle da topologia da rede, por exemplo. Serviços de segurança, como firewalls, também podem tirar proveito da flexibilidade oferecida pelas SDNs, como de fato de ocorrido. O objetivo deste trabalho é apresentar e discutir uma revisão do estado da arte sobre firewalls em SDNs, buscando identificar padrões que possibilitem classificar as soluções existentes quanto a sua arquitetura e modos de operação e, também, identificar oportunidades e desafios de pesquisa.},
+    keywords = {Redes definidas por software; Seguranca em redes},
+    url = {http://errc.sbc.org.br/2019/papers/fiorenza2019firewalls.pdf},
+} 
+
+

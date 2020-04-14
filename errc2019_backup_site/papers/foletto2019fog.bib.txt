@@ -1,0 +1,12 @@
+@inproceedings{foletto2019fog,
+    author = {Leonardo Foletto and Ivania Fischer and Roseclea Medina and Eder Pereira},
+    title = {{Fog Computing: análise de desempenho computacional}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Fog Computing é um tema de grande estudo atualmente, tal tecnologia surge para ser utilizada como uma camada entre os dispositivos Internet das Coisas e a Computação em Nuvem, tendo como objetivo estabelecer comunicações mais ágeis e dispor de um processamento prévio das informações, para após esta etapa enviar informações para Cloud. Porém ainda existem pontos em abertos, como quais dispositivos conseguem suportar o papel de um nodo Fog. Neste artigo será proposto uma análise do poder computacional desses dispositivos e para isso apresenta um cálculo baseado em quesitos de hardware, para assim obter uma métrica concisa dos nodos Fog, sabendo que o mesmo terá um desempenho satisfatório no ambiente IoT o qual foi inserido.},
+    keywords = {Computacao na nuvem; Internet do futuro},
+    url = {http://errc.sbc.org.br/2019/papers/foletto2019fog.pdf},
+} 

@@ -1,0 +1,12 @@
+@inproceedings{rosa2019uma,
+    author = {Diuliana de Matos da Rosa and Liliana Colares and Matheus Braga and Victor Martins de Sousa},
+    title = {{Uma Investigacao sob a Percepcao dos Usuarios no Desempenho da Rede no IFC - Campus Avancado Sombrio}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Este trabalho busca realizar um levantamento e analise, a partir da percepcao dos usuarios de uma instituicao de ensino, em relacao ao desempenho da rede ao passo que estes sao os mais utilizadores do acesso a Internet. A analise se deu atraves de um questionario preliminar comparando uma rede cabeada com uma rede sem fio. Com base nos resultados, foi analisado que mesmo a Internet sem fio apresentando maior lentidao, os entrevistados consideram a Internet na instituicao satisfatoria.},
+    keywords = {Especificacao, validacao e verificacao de redes; Medicao e monitoracao de redes; Projeto e analise de redes} 
+    url = {http://errc.sbc.org.br/2019/papers/rosa2019uma.pdf},
+} 

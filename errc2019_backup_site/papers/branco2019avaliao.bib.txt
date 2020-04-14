@@ -1,0 +1,15 @@
+
+@inproceedings{branco2019avaliao,
+    author = {Vinícius Branco and Bruno Lippert and Henry Nunes and Roben Lunardi and Avelino Zorzo},
+    title = {{Avaliação do uso de Smart Contracts para Sistema de Saúde Colaborativa}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A tecnologia de blockchain surgiu como uma solução para integridade, não-repúdio e disponibilidade de dados para os diferentes setores da indústria. Cenários sensíveis a dados, como a área da saúde, podem se beneficiar dessas propriedades de blockchains. Consequentemente, diferentes pesquisas propuseram a adoção de blockchain em aplicações de saúde. No entanto, poucos são discutidos sobre métodos de incentivo para serem atraentes para um novo usuário. Além disso, poucos são discutidos sobre o desempenho durante a execução de códigos em blockchains. A fim de abordar essas questões, este trabalho apresenta a avaliação preliminar do TokenHealth, um aplicativo para saúde colaborativa com incentivos baseados em gamificação e baseados em token. A solução proposta é implementada usando o blockchain Ethereum com linguagem de desenvolvimento de smart contracts Solidity.},
+    keywords = {Redes P2P; Seguranca em redes},
+    url = {http://errc.sbc.org.br/2019/papers/branco2019avaliao.pdf},
+} 
+
+

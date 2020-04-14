@@ -1,0 +1,12 @@
+@inproceedings{miers2019openstack,
+    author = {Charles Christian Miers and Guilherme Piegas Koslovski and Mauricio Aronne Pillon and Adnei Willian Donatti},
+    title = {{Análise do tráfego de máquinas virtuais na rede de controle de nuvens computacionais baseadas em OpenStack}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A computacao em nuvem e um paradigma amplamente difundido para disponibilizacao de recursos computacionais sob demanda. Como suporte para o gerenciamento e provi- sionamento dos servicos ofertados, emprega-se a virtualizacao dos recursos de processa- mento, armazenamento e comunicacao. Assim, o usuario pode ter acesso a uma infraes- trutura virtualizada e privada mediante pagamento pelo uso, ou com a implantacao de uma nuvem privada, cuja utilizacao alinha-se as necessidades de uma organizacao. A literatura especializada aponta que questoes relacionadas ao desempenho de uma nuvem dependem da identificacao de comportamentos e operacoes que ocorrem durante o seu uso. Alem disso, percebe-se, que ha uma necessidade de identificar operacoes, muitas das quais ocorrem no nivel da camada de rede e demandam analise e compreensao do que esta trafegando e sua finalidade. Neste sentido, a caracterizacao de trafego auxilia este entendimento, por meio do emprego de tecnicas e metodos que possibilitam a coleta e identificacao de forma sistematizada. O presente minicurso apresenta a analise do tra- fego de maquinas virtuais na rede de controle de nuvens computacionais gerenciadas por OpenStack. Alem da descricao e analise do cenario, o minicurso apresenta resultados experimentais obtidos em uma nuvem computacional privada.},
+    url = {http://errc.sbc.org.br/2019/mc/miers2019openstack.bib},
+} 
+

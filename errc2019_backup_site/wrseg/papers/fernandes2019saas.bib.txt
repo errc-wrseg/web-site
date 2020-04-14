@@ -1,0 +1,13 @@
+@inproceedings{fernandes2019saas,
+    author = {Rafael Fernandes and Giulliano Paz and Diego Kreutz and Rodrigo Mansilha and Roger Immich},
+    title = {{SAAS: Uma Solução de Autenticação para Aplicativos de Smartphones}},
+    booktitle = {4o Workshop Regional de Segurança da Informação e de Sistemas Computacionais },
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {A crescente utilização de aplicativos em dispositivos móveis como forma de autenticação de usuários está trazendo à tona diferentes oportunidades e desafios de segurança. Por exemplo, o cartão virtual do SESC-RS utiliza um QR Code estático, contendo apenas o CPF do associado, como forma de autenticação, o que representa uma vulnerabilidade crítica sob a ótica da segurança. Neste trabalho é proposta uma solução de autenticação para aplicativos de dispositivos móveis, denominada SAAS, composta de dois protocolos principais, um de vinculação de credenciais do usuário (i.e. identificação) ao dispositivo móvel e outro para a geração de códigos de autenticação descartáveis, denominados OTACs. Como forma de demonstrar o funcionamento e a viabilidade da solução, foi implementado um protótipo que simula o controle de acesso utilizando catracas eletrônicas, uma das finalidades para as quais o cartão virtual do SESC-RS é utilizado.},
+    keywords = {Autenticação e gestão de identidades},
+    url = {http://errc.sbc.org.br/2019/wrseg/papers/fernandes2019saas.pdf},
+} 
+

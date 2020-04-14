@@ -1,0 +1,12 @@
+@inproceedings{brezolin2019projeto,
+    author = {Joao Mário Brezolin and Cristiano Nunes},
+    title = {{Projeto redes: implementação de uma MANET para a conexão de dispositivos IoT utilizando protocolo OLSR}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {O presente artigo apresenta o estudo acerca implementação de uma obile Ad hoc Network utilizando o protocolo de roteamento OLSR. Objetivou-se com essa pesquisa demonstrar que por meio desse protocolo é possível implementar uma rede para a conexão de dispositivos IoT escalável, resiliente e autoconfigurável. Os resultados alcançados demonstraram que o protocolo OLSR permitiu estabelecer com sucesso a infraestrutura necessária para realizar a interconexão desses.},
+    keywords = {Arquitetura de redes; Projeto e analise de redes; Protocolos de redes},
+    url = {http://errc.sbc.org.br/2019/papers/brezolin2019projeto.pdf},
+} 

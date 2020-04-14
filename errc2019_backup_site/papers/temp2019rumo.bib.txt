@@ -1,0 +1,14 @@
+@inproceedings{temp2019rumo,
+    author = {Daniel Temp and Rodrigo Mansilha and Deivid Rodrigues and Diego Kreutz},
+    title = {{Rumo á Delegação Escalável e Segura de Gerenciamento de LANs para ISPs}},
+    booktitle = {17a Escola Regional de Redes de Computadores},
+    address = {Alegrete-RS, Brasil},
+    days = {16-19},
+    month = {sep},
+    year = {2019},
+    abstract = {Conforme os processos pessoais (entretenimento, financeiros, segurança, etc.), suportados por uma gama crescente de dispositivos (TVs, celulares, câmeras, etc.), convergem para serviços oferecidos através da Internet of Things (IoT), os quesitos de Quality of Experience (QoE), segurança e privacidade das Local Area Networks (LANs) residenciais aumentam em complexidade (quantidade, variedade e conflitos entre aplicações e requisitos). Nesse contexto, clientes podem demandar de seus Internet Service Providers (ISPs) soluções para problemas originados em suas LANs. Porém, ISPs enfrentam desafios para atender tal demanda de maneira escalável (i.e. padronizada, em contraste com meios ad-hoc). Objetivamos realizar uma ponte entre as soluções existentes e o mercado para superar especificidades regionais como aspectos financeiros (e.g. custo total de propriedade), legais (e.g. marco legal da Internet Brasileira) e sociais (e.g. conhecimento tecnológico de clientes e técnicos de ISPs) rumo à delegação escalável (i.e. padronizada entre clientes), segura (e.g. controlada e auditável) de gerenciamento de LANs para ISPs. Nossa visão é simplificar ao máximo (i.e. modelo On/Off com temporizador) o processo de delegação de gerência para minimizar custos (hardware, software e treinamento) e facilitar a compreensão dos envolvidos sobre os compromissos de segurança (controle e auditabilidade) envolvidos e assim viabilizar inovação nas bordas da Internet.},
+    keywords = {Gerenciamento e operacao de redes; Redes definidas por software; Virtualizacao de redes},
+    url = {http://errc.sbc.org.br/2019/papers/temp2019rumo.pdf},
+} 
+
+
