@@ -126,8 +126,14 @@
                 <li><a href="wrseg.php?#chamada">Chamadas</a></li>
               </ul>
             </li>
- 
-            <li><a href="organizacao.php"><b>Organiza&ccedil;&atilde;o</b></a></li>
+
+            <li class="dropdown">
+              <a href="wrseg.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Organização</b><span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="organizacao.php"><b>Edição 2019</b></a></li>
+                <li><a href="crrc.php"><b>Comitê Assessor</b></a></li>
+              </ul>
+            </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
