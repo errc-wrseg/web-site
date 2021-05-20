@@ -73,7 +73,7 @@
         <br><br>
         <h2>Minicursos</h2>
 				<p>
-				  <img class="img-center" src="img/capa_livro.jpg">   
+				  <img class="img-responsive" src="img/capa_livro.jpg">   
 				</p>
 				<br>
 				<h3><a href="https://doi.org/10.5753/sbc.5929.0">Livro de minicursos publicado no SBC OpenLib (SOL) - DOI: https://doi.org/10.5753/sbc.5929.0</a>
