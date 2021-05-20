@@ -1,7 +1,7 @@
 <!-- INICIO CONTEUDO PROGRAMACAO_MINICURSOS      -->
     <h3>Minicurso 1: Introdução à Tecnologia dos Blockchains: Teoria e Prática</h3>
     <p>
-    <a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.bib.txt">[BibTeX ISO-8859-1]</a>
+    <a href="https://doi.org/10.5753/sbc.5929.0.1">[DOI: https://doi.org/10.5753/sbc.5929.0.1]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/chervinski2019blockchains.bib.txt">[BibTeX ISO-8859-1]</a>
     </p>
     <p><b>Data:</b> 16/09/2019 <b>Horário:</b> 14:30-16:00, 16:30-18:00 <b>Local:</b> Laboratório 102</p>
     <p><b>Autores:</b> João Otávio Chervinski, Felipe Melchior, Rafael Fernandes, Guilherme Neri, Lucas Antunes, Diego Kreutz, Rodrigo Mansilha (UNIPAMPA)</p>
@@ -14,7 +14,7 @@
 
     <h3>Minicurso 2: Introdução à Propriedades Avançadas de Segurança da Informação</h3>
     <p>
-    <a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.bib.txt">[BibTeX ISO-8859-1]</a>
+    <a href="https://doi.org/10.5753/sbc.5929.0.2">[DOI: https://doi.org/10.5753/sbc.5929.0.2]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/kreutz2019propriedades.bib.txt">[BibTeX ISO-8859-1]</a>
     </p>
     <p><b>Data:</b> 17/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
     <p><b>Autores:</b> Diego Kreutz, Sabrina Carlé Winckler, Rodrigo de Oliveira Barbosa, João Otávio Chervinski, Tadeu Jenuário (UNIPAMPA)</p>
@@ -27,7 +27,7 @@
     
     <h3>Minicurso 3: Introdução à linguagem de programação P4, o futuro das redes</h3>
     <p>
-    <a href="https://errc.sbc.org.br/2019/mc/camera2019p4.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/camera2019p4.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/camera2019p4.bib.txt">[BibTeX ISO-8859-1]</a>
+    <a href="https://doi.org/10.5753/sbc.5929.0.3">[DOI: https://doi.org/10.5753/sbc.5929.0.3]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/camera2019p4.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/camera2019p4.bib.txt">[BibTeX ISO-8859-1]</a>
     </p>
     <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
     <p><b>Autores:</b> Pedro E. Camera e Alisson B. Zanetti (UPF)</p>
@@ -40,7 +40,7 @@
         
     <h3>Minicurso 4: Análise de tráfego de máquinas virtuais na rede de controle de nuvens computacionais baseadas em OpenStack</h3>
     <p>
-    <a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.bib.txt">[BibTeX ISO-8859-1]</a>
+    <a href="https://doi.org/10.5753/sbc.5929.0.4">[DOI: https://doi.org/10.5753/sbc.5929.0.4]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/miers2019openstack.bib.txt">[BibTeX ISO-8859-1]</a>
     </p>
     <p><b>Data:</b> 18/09/2019 <b>Horário:</b> 14:30-16:00, 16:30-18:00 <b>Local:</b> DTIC</p>
     <p><b>Autores:</b> Charles Christian Miers, Guilherme Piêgas Koslovski, Maurício Aronne Pillon, Adnei Willian Donatti (UDESC)</p>
@@ -52,7 +52,7 @@
 
     <h3>Minicurso 5: Web Application Firewalls (WAFs): Teoria e Prática</h3>
     <p>
-    <a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.pdf">[PDF]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.bib.txt">[BibTeX ISO-8859-1]</a>
+    <a href="https://doi.org/10.5753/sbc.5929.0.5">[DOI: https://doi.org/10.5753/sbc.5929.0.5]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.bib">[BibTeX UTF-8]</a>&nbsp;<a href="https://errc.sbc.org.br/2019/mc/melchior2019wafs.bib.txt">[BibTeX ISO-8859-1]</a>
     </p>
     <p><b>Data:</b> 19/09/2019 <b>Horário:</b> 09:00-10:30, 11:00-12:30 <b>Local:</b> DTIC</p>
     <p><b>Autores:</b> Felipe Melchior, Diego Kreutz, Mauricio Fiorenza, Fernando Flora, Rafael Fernandes, Thiago Escarrone (UNIPAMPA), Isadora Ferrão (USP), Douglas Macedo (UFSC)</p>
